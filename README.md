@@ -1,4 +1,4 @@
-"# System 7 Internship" 
+# System 7 Internship 
 ## Day 1: Python basics
 - Syntax: comments, indentation, multi-line strings
 - Variables and data types
