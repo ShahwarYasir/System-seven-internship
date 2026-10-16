@@ -1,4 +1,7 @@
-# System 7 Internship 
+# System 7 Internship
+
+Week 1: Python and Data Science Foundations
+
 ## Day 1: Python basics
 - Syntax: comments, indentation, multi-line strings
 - Variables and data types
@@ -11,3 +14,37 @@
 - Loops (for, while, break, continue) and range()
 - Functions (parameters, defaults, return values)
 - Mini projects: command-line calculator, number-guessing game
+
+## Day 3: Data structures
+- Lists, tuples, dictionaries, sets
+- Comprehensions, slicing, unpacking, set operations
+- Mini project: word-frequency counter and contact book
+
+## Day 4: Files, exceptions, modules and OOP
+- File handling (read, write, append), try/except/finally, custom exceptions
+- Modules (standard library and my own)
+- Classes, inheritance, `__str__`
+- Task 3: student record manager saving to JSON
+- Task 4: BankAccount / SavingsAccount classes in their own module
+
+## Day 5: NumPy
+- Arrays, shapes, indexing, slicing, boolean masks
+- Vectorised math, broadcasting, matrix operations
+- Task 5: operations on a sample 5x5 matrix
+
+## Day 6: Pandas
+- Series and DataFrames, filtering, sorting, groupby
+- Handling missing values and duplicates
+- Task 6: cleaned `students.csv`, plotted before and after
+
+## Day 7: Visualization, TensorFlow intro and CSV analysis
+- Matplotlib and Seaborn basic charts
+- TensorFlow installation and tensors
+- Task 1: CSV analysis with summary statistics and charts (`day-07/04_csv_analysis.py`)
+
+## How to run
+```
+pip install numpy pandas matplotlib seaborn tensorflow
+cd day-07
+python 04_csv_analysis.py
+```
