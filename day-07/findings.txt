@@ -1,0 +1,4 @@
+Students analysed: 192
+Average CGPA: 3.41
+Best department (mean CGPA): AI
+Correlation study_hours vs cgpa: 0.75
