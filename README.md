@@ -74,9 +74,19 @@ Week 2: Mathematics and Machine Learning Basics
 - Tuned k and max_depth on the validation set
 - Compared models with accuracy and confusion matrix
 
+## Day 14: Final models and feature importance
+- Final regression and classification models scored once on the test set
+- Coefficients and random forest feature importance
+- Findings on what drives house prices
+
 ## How to run
 ```
 pip install numpy pandas matplotlib seaborn tensorflow
 cd day-07
 python 04_csv_analysis.py
+```
+Week 2 notebooks:
+```
+cd day-14-house-price-classifier
+jupyter notebook final_house_price_models.ipynb
 ```
