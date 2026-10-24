@@ -49,6 +49,11 @@ Week 2: Mathematics and Machine Learning Basics
 - Samples, features and target in a Pandas DataFrame
 - Regression vs classification (`day-08-ml-foundations/ml_foundations.ipynb`)
 
+## Day 9: Descriptive statistics
+- Mean, median, mode, variance and standard deviation by hand, in NumPy and in Pandas (population vs sample)
+- How outliers affect the mean but not the median
+- Created the synthetic practice dataset `houses_raw.csv` with `generate_houses.py`
+
 ## How to run
 ```
 pip install numpy pandas matplotlib seaborn tensorflow
