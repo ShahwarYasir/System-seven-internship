@@ -59,6 +59,12 @@ Week 2: Mathematics and Machine Learning Basics
 - Linear model predictions as `X @ w + b`
 - Linear regression solved with the normal equation
 
+## Day 11: Probability, correlation and data preparation
+- Task 1: dataset exploration and preparation (missing values, duplicates, inconsistent text, outliers)
+- Probability and correlation matrix
+- 70/15/15 train, validation and test split
+
+
 ## How to run
 ```
 pip install numpy pandas matplotlib seaborn tensorflow
