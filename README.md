@@ -64,6 +64,11 @@ Week 2: Mathematics and Machine Learning Basics
 - Probability and correlation matrix
 - 70/15/15 train, validation and test split
 
+## Day 12: Regression with Scikit-learn
+- Task 2: simple and multiple linear regression on house prices
+- MAE, RMSE, R2 and reading coefficients
+- Predicting the price of a new house
+
 
 ## How to run
 ```
