@@ -69,6 +69,10 @@ Week 2: Mathematics and Machine Learning Basics
 - MAE, RMSE, R2 and reading coefficients
 - Predicting the price of a new house
 
+## Day 13: Classification models
+- Task 3: logistic regression, KNN, decision tree and random forest
+- Tuned k and max_depth on the validation set
+- Compared models with accuracy and confusion matrix
 
 ## How to run
 ```
