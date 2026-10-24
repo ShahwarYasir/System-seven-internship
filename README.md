@@ -54,6 +54,11 @@ Week 2: Mathematics and Machine Learning Basics
 - How outliers affect the mean but not the median
 - Created the synthetic practice dataset `houses_raw.csv` with `generate_houses.py`
 
+## Day 10: Linear algebra
+- Vectors, matrices, dot product, matrix multiplication and shape rules in NumPy
+- Linear model predictions as `X @ w + b`
+- Linear regression solved with the normal equation
+
 ## How to run
 ```
 pip install numpy pandas matplotlib seaborn tensorflow
