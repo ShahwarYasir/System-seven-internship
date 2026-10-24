@@ -42,6 +42,13 @@ Week 1: Python and Data Science Foundations
 - TensorFlow installation and tensors
 - Task 1: CSV analysis with summary statistics and charts (`day-07/04_csv_analysis.py`)
 
+Week 2: Mathematics and Machine Learning Basics
+
+## Day 8: Machine learning foundations
+- AI vs ML vs deep learning, types of learning
+- Samples, features and target in a Pandas DataFrame
+- Regression vs classification (`day-08-ml-foundations/ml_foundations.ipynb`)
+
 ## How to run
 ```
 pip install numpy pandas matplotlib seaborn tensorflow
