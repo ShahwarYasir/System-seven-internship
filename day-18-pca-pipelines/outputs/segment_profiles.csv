@@ -1,0 +1,5 @@
+segment,customers,age,annual_income_k,visits_per_year,avg_basket,annual_spend,spend_pct_of_income
+0,139,23.9,45.0,55.0,39.6,2166.8,4.9
+1,120,41.0,109.7,25.2,95.0,2387.7,2.2
+2,191,33.3,35.8,39.8,18.6,736.5,2.1
+3,150,51.1,69.6,6.0,60.5,363.3,0.5
