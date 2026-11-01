@@ -1,0 +1,9 @@
+{
+  "before_test_accuracy": 0.862500011920929,
+  "after_test_accuracy": 0.8883000016212463,
+  "trainable_params": 1539210,
+  "unfrozen_layers": 30,
+  "learning_rate": 5e-05,
+  "epochs_run": 6,
+  "quick_test": false
+}

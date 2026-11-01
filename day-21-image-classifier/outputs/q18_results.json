@@ -1,0 +1,29 @@
+{
+  "mobilenetv2_test_accuracy": 0.862500011920929,
+  "mobilenetv2_test_loss": 0.3953842520713806,
+  "mobilenetv2_total_params": 2270794,
+  "mobilenetv2_trainable_params": 12810,
+  "epochs_run": 9,
+  "train_seconds": 96.6,
+  "img_size": 96,
+  "scratch_test_accuracy": 0.7693,
+  "scratch_params": 591274,
+  "per_class_f1": {
+    "airplane": 0.88,
+    "automobile": 0.934,
+    "bird": 0.83,
+    "cat": 0.7323,
+    "deer": 0.8282,
+    "dog": 0.804,
+    "frog": 0.8837,
+    "horse": 0.8829,
+    "ship": 0.9208,
+    "truck": 0.9213
+  },
+  "top_mistake": [
+    "cat",
+    "dog",
+    129
+  ],
+  "quick_test": false
+}
